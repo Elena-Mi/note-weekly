@@ -47,8 +47,9 @@ function App() {
 				mealPlans={mealPlans}
 				addMeal={addMeal}
 				deleteDay={deleteDay}
-        selectedDay={selectedDay}
+                selectedDay={selectedDay}
 				setSelectedDay={setSelectedDay}
+				
 			/>
 			<MyMealAndIngredients 
       selectedDay={getActiveMeal()} 
