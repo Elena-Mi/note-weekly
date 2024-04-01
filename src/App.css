@@ -5,6 +5,7 @@
 }
 body {
 	overflow-x: hidden;
+	background-color: rgb(203, 220, 201);
 }
 .button-add {
 	background-color: rgb(10, 10, 76);
